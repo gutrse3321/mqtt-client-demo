@@ -7,7 +7,7 @@ const OPTS = {
   clean: true
 }
 
-const BASE_URL = '127.0.0.1'
+const BASE_URL = '47.102.121.60'
 const WENSOCKET_URL = `ws://${BASE_URL}:8083/mqtt`
 //tcp node
 const TCP_URL = `mqtt://${BASE_URL}:1883`

@@ -8,7 +8,7 @@ import java.text.MessageFormat;
 public class Demo {
 
     public static void main(String[] args) {
-        String broker = "tcp://127.0.0.1:1883";
+        String broker = "tcp://47.102.121.60:1883";
         String clientId = "JavaSample";
 
         //use the memory persistence
